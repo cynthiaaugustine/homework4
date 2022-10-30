@@ -37,7 +37,7 @@ header img {
     flex-wrap: wrap;
 }
 
-.pricing .card {
+.card {
     width: 100%;
 }
 
@@ -75,9 +75,9 @@ header img {
 
     .pricing {
         display: flex;
-        justify-content: center;
         flex-direction: row;
         flex-wrap: wrap;
+        justify-content: center;
     }
 
     .card {
